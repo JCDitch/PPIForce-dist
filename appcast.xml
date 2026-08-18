@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PPIForce</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 17 Aug 2026 20:00:11 -0500</pubDate>
+            <link>https://github.com/JCDitch/PPIForce-dist/releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/JCDitch/PPIForce-dist/releases/download/v0.1.0/PPIForce-0.1.0.dmg" length="4872387" type="application/octet-stream" sparkle:edSignature="LMaFVBNoBC3ieEZoJz0Q4fzZ/qhgbLN4U3yVkG/UEntGjy2dDRe8BkbTyXNad30TbQnzsPTtGJYERniJUa1IDQ=="/>
+        </item>
+    </channel>
+</rss>
