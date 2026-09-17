@@ -3,14 +3,14 @@
     <channel>
         <title>PPIForce</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 22 Aug 2026 12:16:04 -0500</pubDate>
+            <title>1.1.0</title>
+            <pubDate>Thu, 17 Sep 2026 06:43:32 -0500</pubDate>
             <link>https://github.com/JCDitch/PPIForce-dist/releases</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/JCDitch/PPIForce-dist/releases/download/v1.0.1/PPIForce-1.0.1.dmg" length="4884692" type="application/octet-stream" sparkle:edSignature="KFVPl8qyTiDuwGTnEXivC0e3zOwWtgeoTnFqZdzBXzzy91W70n4yvWOczUgHq6DNjdbijcILq3qfgRh8m2wYCA=="/>
+            <enclosure url="https://github.com/JCDitch/PPIForce-dist/releases/download/v1.1.0/PPIForce-1.1.0.dmg" length="5161373" type="application/octet-stream" sparkle:edSignature="z3ZXuIp8OArJwCxbg5DYP2ke4oQHUoVH5JY+2Q6vK6ilb3XHKCNJYMKfPEZamyb4U6R/QQWRI6e8CGBwm7QWBg=="/>
         </item>
     </channel>
 </rss>
