@@ -3,15 +3,15 @@
     <channel>
         <title>PPIForce</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Thu, 17 Sep 2026 06:43:32 -0500</pubDate>
+            <title>1.1.1</title>
+            <pubDate>Sat, 19 Sep 2026 11:02:45 -0500</pubDate>
             <link>https://github.com/JCDitch/PPIForce-dist/releases</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:criticalUpdate sparkle:version="12"></sparkle:criticalUpdate>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:criticalUpdate sparkle:version="11"></sparkle:criticalUpdate>
-            <enclosure url="https://github.com/JCDitch/PPIForce-dist/releases/download/v1.1.0/PPIForce-1.1.0.dmg" length="5161373" type="application/octet-stream" sparkle:edSignature="z3ZXuIp8OArJwCxbg5DYP2ke4oQHUoVH5JY+2Q6vK6ilb3XHKCNJYMKfPEZamyb4U6R/QQWRI6e8CGBwm7QWBg=="/>
+            <enclosure url="https://github.com/JCDitch/PPIForce-dist/releases/download/v1.1.1/PPIForce-1.1.1.dmg" length="5182691" type="application/octet-stream" sparkle:edSignature="QdAVF0bRTAaB0uZmX2V5vGgUIindKp+CP7QhnrSxsXa6YBh+yHa2WuqgkrqU9OErdqbJAZjbqJKQgo5MC0tnCQ=="/>
         </item>
     </channel>
 </rss>
