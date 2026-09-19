@@ -10,6 +10,7 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:criticalUpdate sparkle:version="11"></sparkle:criticalUpdate>
             <enclosure url="https://github.com/JCDitch/PPIForce-dist/releases/download/v1.1.0/PPIForce-1.1.0.dmg" length="5161373" type="application/octet-stream" sparkle:edSignature="z3ZXuIp8OArJwCxbg5DYP2ke4oQHUoVH5JY+2Q6vK6ilb3XHKCNJYMKfPEZamyb4U6R/QQWRI6e8CGBwm7QWBg=="/>
         </item>
     </channel>
